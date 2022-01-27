@@ -98,7 +98,6 @@ p {
   position: relative;
   top: -10rem;
   text-align: center;
-  background-color: rgb(223, 111, 111);
   color: #fff;
 }
 
@@ -112,6 +111,7 @@ p {
   margin: 20px;
 }
 
+/*Press*/
 #press {
   text-align: center;
   position: relative;
